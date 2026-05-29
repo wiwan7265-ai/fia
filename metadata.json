@@ -1,0 +1,6 @@
+{
+  "name": "Aphi Shopping",
+  "description": "ร้านขายสินค้าอำนวยความสะดวกที่มีความสุขกับการช้อปปิ้ง พร้อมบันทึกคำสั่งซื้อลง Google Sheets ที่ระบุ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
